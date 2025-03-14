@@ -1,0 +1,3 @@
+/mnt/d/School/Courses/3700.course/Labs/09 - CD Lists/CDList/cmake-build-debug/CMakeFiles/CDList.dir
+/mnt/d/School/Courses/3700.course/Labs/09 - CD Lists/CDList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/School/Courses/3700.course/Labs/09 - CD Lists/CDList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

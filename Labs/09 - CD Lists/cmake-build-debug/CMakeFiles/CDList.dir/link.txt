@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CDList.dir/main.cpp.o -o CDList
