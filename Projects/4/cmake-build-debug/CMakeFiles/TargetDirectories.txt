@@ -1,0 +1,3 @@
+/home/bob/School/Courses/3700.course/Projects/BSTDictionary/Solution/cmake-build-debug/CMakeFiles/Solution.dir
+/home/bob/School/Courses/3700.course/Projects/BSTDictionary/Solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bob/School/Courses/3700.course/Projects/BSTDictionary/Solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
